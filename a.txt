@@ -1,0 +1,14 @@
+-m
+-amend 直前のコミットを上書き
+ls Listの略
+
+
+教育用 at 2025/06/23
+GitStudy2025
+https://github.com/isono-saki/GitStudy2025.git
+
+初期登録
+あいうえお
+
+
+ああ
